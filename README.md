@@ -6,7 +6,9 @@ The database is intended for exploratory browsing and searching using Datasette.
 
 ## Online viewer
 
-https://lite.datasette.io/[Launch Irish Elections Viewer](PASTE_LINK_HERE)
+Open the browser-based searchable database here:
+
+[Launch Irish Elections Viewer](https://lite.datasette.io/?url=https://raw.githubusercontent.com/forbess1/irish-elections-viewer/main/irish_elections_viewer.db)
 
 ## Files
 
